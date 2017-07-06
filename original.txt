@@ -3,6 +3,8 @@
 aaaaaaaaaaaaaaaa
 **********************
 
+改修1をmasterにマージしプッシュした
+
 bbbbbbbbbbbbbbbb
 
 cccccccccccccccc
