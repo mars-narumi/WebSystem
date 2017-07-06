@@ -20,7 +20,10 @@ cccccccccccccccc
 dddddddddddddddd
 *****************
 
+**********************
+改修5をmasterにて編集
 eeeeeeeeeeeeeeee
+**********************
 
 ffffffffffffffff
 
